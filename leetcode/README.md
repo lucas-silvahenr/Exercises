@@ -54,7 +54,7 @@ As pastas seguem o padrão:
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 1 |
 | Hard | 0 |
 | Total | 0 |
